@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CoRDFL: Continuous Reflective Debugging for Fault Localization
 
 This repository provides the implementation and experimental artifacts for of our work, which proposes a **Continuous Reflective Debugging for Fault Localization method (CoRDFL)**.
@@ -102,7 +101,6 @@ The experimental pipeline involves multiple iterations and external LLM calls.
 
 ## 📖 Citation
 
-=======
 # CoRDFL: Continuous Reflective Debugging for Fault Localization
 
 This repository provides the implementation and experimental artifacts for of our work, which proposes a **Continuous Reflective Debugging for Fault Localization method (CoRDFL)**.
@@ -206,5 +204,4 @@ The experimental pipeline involves multiple iterations and external LLM calls.
 
 ## 📖 Citation
 
->>>>>>> 39608948481257fada938ed9681c8ba9c1bd3e77
 If you find this work useful, please cite our paper (to be added).
