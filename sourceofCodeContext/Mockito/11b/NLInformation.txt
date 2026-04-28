@@ -1,0 +1,1 @@
+[{'faultLineContent': ['    public int hashCode() {\n', '        return 1;\n'], 'faultLineNumbers': [59, 60], 'relatedFaultStatementList': [1], 'staticFaultStatementList': [60], 'commentList': [], 'errorLogContent': [], 'testCaseContent': {}, 'testCaseLineNum': {}, 'faultDir': 'src/org/mockito/internal/creation/DelegatingMethod'}]
